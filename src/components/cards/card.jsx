@@ -5,7 +5,7 @@ class Card extends React.Component {
         return (
             <div className="card">
                 <h2>Titulo</h2>
-                <p>esse é um texto do card</p>
+                <p>Esse é um texto do card</p>
     
             </div>
         )
